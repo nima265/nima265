@@ -67,6 +67,9 @@
 </a>
 <a href="https://www.kaggle.com/nimaetemadgolestani" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://nima265.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/website-%2344BAE8.svg?&style=for-the-badge&logo=website=white alt=website style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
