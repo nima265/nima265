@@ -72,10 +72,11 @@
 </a>
 <a href="https://nima265.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/website-%2344BAE8.svg?&style=for-the-badge&logo=website=white alt=website style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
+</a>
+<a href="https://app.datacamp.com/profile/nimagolestani" target="_blank">
+<img src=https://img.shields.io/badge/datacamp-%2324292e.svg?&style=for-the-badge&logo=datacamp&logoColor=green alt=datacamp style="margin-bottom: 5px;" />
+</a>
+ 
 <br/>  
 
 
