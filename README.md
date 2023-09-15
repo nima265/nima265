@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nima, a full-time Game Developer and Technical Artist👨‍💻🎮</div>  
+### <div align="center">I'm Nima, a full-time Game Developer and Unity engine specialist👨‍💻🎮</div>  
   
 
 - 🔭 I’m currently working on [White Designers Studios](https://www.linkedin.com/company/wdstudios/mycompany/)  
